@@ -4,6 +4,7 @@
 
 ### A young and interested soon-to-be software developer.
 
+- Unfortunately, born too early for the Starfleet. ![star trek badge](https://cdn.liolp.ch/schoolattack/3/badge16x16.png)
 - My most important Project yet is **[SchoolAttack](https://schoolattack.liolp.ch)**
 - In my free time I'm building my **home lab** and **Smart Home**. **[@HomeAssistant](https://www.home-assistant.io/)**
 
