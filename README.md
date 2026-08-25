@@ -10,6 +10,9 @@
 <br>
 
 <div align="center">
+  <a href="[https://lio.familieheimberg.ch](https://www.youtube.com/@LioLP-gaming/videos)" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
   <a href="https://lio.familieheimberg.ch" target="_blank">
     <img src="https://img.shields.io/badge/Homepage-green?style=for-the-badge" target="_blank" />
   </a>
