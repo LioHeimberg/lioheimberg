@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Antonio&size=48&pause=1000&color=EDB378&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%96%96;I'm+Lio+Heimberg;Welcome+to+my+page!" alt="Typing SVG" />
+</h1>
 
-<!--
-**LioHeimberg/lioheimberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A young and interested soon-to-be software developer.
 
-Here are some ideas to get you started:
+- My most important Project yet is **[SchoolAttack](https://schoolattack.liolp.ch)**
+- In my free time I'm building my **home lab** and **Smart Home**. **[@HomeAssistant](https://www.home-assistant.io/)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div align="center">
+  <a href="https://lio.familieheimberg.ch" target="_blank">
+    <img src="https://img.shields.io/badge/Homepage-green?style=for-the-badge" target="_blank" />
+  </a>
+  <a href="https://www.instagram.com/lioheimberg" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
+
+## Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,raspberrypi,java,md,react,github,mysql,blender,php,arch"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,python,vscode,stackoverflow,grafana,docker,photoshop,gitlab,ubuntu" />
+</p>
+
+<hr>
+
+## My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LioHeimberg/lioheimberg/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LioHeimberg/lioheimberg/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/LioHeimberg/lioheimberg/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
