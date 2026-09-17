@@ -22,7 +22,7 @@
   </a>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=a71313&vCenter=true&repeat=true&width=300&height=20&lines=%24+echo+%22hello+world%22" alt="$ echo hello world" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=1000&color=8899ff&vCenter=true&repeat=true&width=300&height=20&lines=%24+echo+%22hello+world%22" alt="$ echo hello world" />
 
 <hr>
 
